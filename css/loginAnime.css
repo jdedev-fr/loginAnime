@@ -74,11 +74,14 @@ article {
     height:30px;
     display: flex;
     left:0;
+    color:white;
     justify-content: center;
+    transition: linear 1s;
     align-items: center;
 }
 .inscr {
     position: absolute;
+    transition: linear 1s;
     width: 50%;
     height:30px;
     display: flex;
